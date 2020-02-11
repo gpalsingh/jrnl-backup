@@ -1,3 +1,4 @@
+from .backup import main as runScript
 
 def main():
-  print('To be implemented')
+  runScript()
